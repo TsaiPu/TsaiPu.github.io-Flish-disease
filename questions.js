@@ -9,7 +9,7 @@ const questions = [{"question": "請問下列那種情況會造成氣體過飽�
  {"question": "關於Leech infestation的宿主特徵，下列敘述何者錯誤?", "options": ["A通常發生於野生捕撈魚或池塘養殖魚中", "B.會寄生在魚類的皮膚、口腔、鰓上", "C.感染的魚類可能表現貧血及皮膚病變", "D.寄主範圍僅限特定魚類物種"], "correct": "D"}, 
 {"question": "關於Leech infestation的治療，下列敘述何者正確?", "options": ["A.Leech infestation難以治療，通常需要多次用藥才能控制", "B.有機磷藥物的單次劑量即可有效治療", "C.治療魚體的同時，應避免對池塘環境進行清理及控制", "D.觀察期僅7天，因為Leech infestation很少再次感染"], "correct": "B"},
  {"question": "Copepod對魚類的主要寄生部位是什麼？", "options": ["A.內臟和肌肉", "B.魚鰓和皮膚", "C.骨骼和鰭條", "D.眼睛和嘴部"], "correct": "B"}, 
-{"question": "哪種情況下Copepod最容易對魚類造成大量感染？", "options": ["A.低密度的野外環境", "B.高密度的養殖場", "C.深海冷水區域", "D.淡水流動環境"], "correct": "B"},
+{"question": "哪種情況下Copepod最容易對魚類造成大量感染？", "options": ["A. 低密度的野外環境", "B. 高密度的養殖場", "C. 深海冷水區域", "D .淡水流動環境"], "correct": "B."},
  {"question": "屬於淡水魚寄生的Anchor Worm來自以下哪個科？", "options": ["A. Cecropidae", "B. Lernaeidae ", "C. Caligidae", "D. Ergasilidae"], "correct": "B"}, 
 {"question": "以下哪種寄生蟲對鮭魚養殖影響最大？", "options": ["A. Lernaea", "B. Caligus elongatus ", "C. Ergasilus sieboldi", "D. Salmincola"], "correct": "C"},
  {"question": "下列哪個寄生性橈足類目以侵入宿主組織深處為主要特徵？", "options": ["A. Poecilostomatoida", "B. Siphonostomatoida", "C. Cyclopoida", "D. Caligidae"], "correct": "C"},
