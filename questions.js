@@ -229,7 +229,7 @@ const questions = [{"question": "請問下列那種情況會造成氣體過飽�
  {"question": "關於Gyrodactylus salaris的傳播，何者正確？", "options": ["A. 不會附著在非易感物種的魚上", "B.主要生活在淡水水域", "C. 可在0°C以下的水域存活", "D. 易感的魚種感染後發病率及死亡率皆低"], "correct": "B"},
  {"question": "根據水生動物衛生法典（Aquatic Code），下列何者非Gyrodactylus salaris的易感物種？", "options": ["A. 大西洋鮭(Salmo salar)", "B. 虹鱒(Oncorhynchus)", "C. 北極紅點鮭(Salvelinus alpinus)", "D. 以上皆會"], "correct": "D"},
  {"question": "大西洋鮭魚感染Gyrodactylus salaris後，可能會出現什麼臨床症狀？", "options": ["A.魚身呈灰色", "B.凸眼", "C.螺旋式洄遊", "D.不會出現臨床症狀"], "correct": "D"},
- {"question": "有關Gyrodactylus salaris的控制，何者正確？", "options": ["A. 已有商業疫苗可用", "B.可以含碘化合物將其殺死", "C. 消毒新引入的魚卵並無法預防Gyrodactylus salaris感染", "D. 可以引起宿主的免疫刺激反應"], "correct": "B"},
+ {"question": "有關Gyrodactylus salaris的控制，何者正確？", "options": ["A. 已有商業疫苗可用", "B.可以含碘化合物將其殺死", "C. 消毒新引入的魚卵並無法預防Gyrodactylus salaris感染", "D. 可以引起宿主的免疫刺激反應"], "correct": "B."},
  {"question": "關於Gyrodactylus salaris的診斷方式，下列敘述何者正確？", "options": ["A. 直接鏡檢下可透過形態學區分Gyrodactylus salaris與其他同屬物種", "B. 即時聚合酶連鎖反應（Real-time PCR）已被廣泛利用在此寄生蟲診斷上", "C. 無法使用免疫組織化學染色診斷", "D. 以上皆非"], "correct": "C"},
  {"question": "下列何者非常見HPR-deleted infectious salmon anemia virus (ISAV)之臨床症狀？", "options": ["A.嚴重貧血並有蒼白的鰓", "B.昏昏欲睡", "C.眼球突出及眼前房積血", "D.螺旋游動"], "correct": "D"},
  {"question": "下列何者為HPR-deleted infectious salmon anemia virus (ISAV)的主要目標細胞？", "options": ["A.血管內皮細胞", "B.白血球", "C.紅血球", "D.腎竇巨噬細胞"], "correct": "A"},
