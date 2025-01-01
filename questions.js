@@ -16,7 +16,7 @@ const questions = [{"question": "請問下列那種情況會造成氣體過飽�
  {"question": "下列何者為感染外寄生蟲Branchiuran後之主要病徵？", "options": ["A.魚類可能會因為螫针引起的刺激而表現出暴力、不規則的游動或其他行為異常。", "B.全身體表出血、背鰭有出血斑", "C.嘴巴潰爛，無法進食而死亡", "D.體表潰爛及鰓部肉芽腫"], "correct": "A"},
  {"question": "有關魚蝨感染症（Fish louse infection）之敘述，下列何者為主要病原？", "options": ["A.Argulus foliaceus", "B.Trichodina mutabilis", "C.Ichthyophthirius multifiliis", "D.Lernaea cyprinacea"], "correct": "C"}, 
 {"question": "有關魚蝨感染症（Fish louse infection）之敘述，下列何者錯誤？", "options": ["A.魚類可能會因為螫针引起的刺激而表現出暴力、不規則的游動或其他行為異常。", "B.魚蝨在金魚和錦鯉身上尤其常見", "C.魚蝨不能夠機械性地傳播細菌或病毒病原。", "D.與其他甲殼類寄生蟲一樣，磷酸酯類化合物通常是有效的治療方法。"], "correct": "C"},
- {"question": "有關魚蝨感染症（Fish louse infection）病原之敘述，下列何者錯誤？", "options": ["A.它們具有吸盤和大型複眼", "B.常在秋夏發生感染", "C.生命週期約為30天", "D.在寒冷氣候中，其蟲卵不可以越冬。"], "correct": "D"},
+ {"question": "有關魚蝨感染症（Fish louse infection）病原之敘述，下列何者錯誤？", "options": ["A. 它們具有吸盤和大型複眼", "B. 常在秋夏發生感染", "C. 生命週期約為30天", "D. 在寒冷氣候中，其蟲卵不可以越冬。"], "correct": "D"},
  {"question": "請問Monogenean通常感染水生動物何種部位？", "options": ["A.皮膚 腮", "B.皮膚 腎", "C.脾 腎", "D.肝 腦"], "correct": "A"}, 
 {"question": "請問哪種時期的Oviparous Monogenean會作為初始型態感染水生動物", "options": ["A.Egg", "B.Oncomaricidia", "C.Adult monogenean", "D.以上皆是"], "correct": "B"},
  {"question": "請問下列有關Monogegean敘述何者正確？", "options": ["A.Monogegean infestation治療方式稀少", "B.Organophostphate為最有效的治療方式", "C.為人畜共通疾病", "D.不具有季節變動性"], "correct": "B"},
